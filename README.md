@@ -1,1 +1,6 @@
 # CIS402Final
+
+CREATE DATABASE menagerie;
+
+CREATE TABLE pets;
+
